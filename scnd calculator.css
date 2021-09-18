@@ -1,0 +1,18 @@
+h1{font-family: cursive; text-align: center;}
+
+.all{box-shadow: 5px 6px 7px 8px;color: rgb(248, 152, 152); transition: 0.3s;
+max-width:350px; border-radius: 5px; margin: 0px auto;}
+.all:hover{box-shadow: 20px 20px 22px 20px;}
+.header{text-align: center;}
+.header #header1{margin: 0px auto; height: 110px; font-size: 2rem; text-align: right; letter-spacing: 3px;
+    width:50.5px; transition: 1.5s; border: 2px solid rgb(255, 0, 0) ;
+     border-radius: 5px; background-color: rgb(35, 222, 255); color: white;}
+     
+     .header #header1:focus{width:343px;background-color: rgb(229, 160, 203);}
+     .header{font-size: 2rem;}
+     .button{width: 84px; height: 55px; margin: 0px; padding: 0px; background-color: aqua;}
+     .button:hover{background-color: blue;}
+     .button1{background-color: rgb(195, 255, 30);}
+     .button2{background-color: red;}
+     
+     
